@@ -1,7 +1,7 @@
 const error = document.getElementById('error')
 const weatherIcon = document.getElementById('weatherIcon')
 const locationSpan = document.getElementById('location')
-const weatherList = document.getElementById('weather-list')
+const weatherList = document.getElementById('weather-list'
 
 // Try to geolocate the user and call getWeather with result
 if (navigator.geolocation) {
